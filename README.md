@@ -1,2 +1,2 @@
-# Online-Supper-Shop-Swing-Project
+# Online-Super-Shop-Swing-Project
 Desktop Application create 
